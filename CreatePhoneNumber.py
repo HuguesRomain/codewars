@@ -20,7 +20,7 @@ def create_phone_number(n):
     second__part = " " + second__part + "-"
     result = first__part + second__part + third__part
 
-    print(resultZZZZZ)
+    print(result)
     return result
 
 
